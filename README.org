@@ -1,3 +1,5 @@
-# Behave tutorial
+#+TITLE: behave tutorial
+#+AUTHOR: Phillip Johnson
+#+DATE: <2018-03-06 Tue>
 
 Implementing behavioural tests in Python with the =behave= library. As found at [[https://semaphoreci.com/community/tutorials/getting-started-with-behavior-testing-in-python-with-behave][semaphoreci.com]].
